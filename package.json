@@ -1,0 +1,14 @@
+{
+  "name": "blogie",
+  "version": "1.0.0",
+  "description": "Build content-rich interfaces with Blogie!",
+  "scripts": {
+    "start-client": "cd client && npm run start",
+    "start-server": "cd server && npm run start"
+  },
+  "keywords": [
+    "Blogie"
+  ],
+  "author": "CodrShiv",
+  "license": "MIT"
+}
